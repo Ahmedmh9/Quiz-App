@@ -86,4 +86,11 @@ let questions = [
     answer: "if(i===5)",
     options: ["if i =5", "if i = 5 then", "if(i===5)", "None of the above"],
   },
+  {
+    numb: 10,
+    question: "Which of the following is JavaScript package manager?",
+    answer: "npm",
+    options: ["Node.js", "TypeScript", "npm"],
+  },
+
 ];
